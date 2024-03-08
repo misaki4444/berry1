@@ -86,7 +86,7 @@ height:650px;
 display:flex;
 align-items:end;
 margin-bottom:100px;
-margin-top:130px;
+margin-top:150px;
 }
 
 .hero-inner{
@@ -111,7 +111,7 @@ margin-left:150px;
 font-family: "Kaisei Opti", serif;
   font-weight: 400;
   font-style: normal;
-font-size:2.5rem;
+font-size:3.3rem;
 text-align:center;
 }
 
@@ -128,7 +128,7 @@ margin-left:200px;
 .contener{
 justify-content:space-around;
 align-content: space-between;
-
+margin-top:250px;
 }
 .
 
@@ -300,12 +300,14 @@ margin-top:60px;
 background-image:url(img/img.jpg);
 background-size:cover;
 height:80vh;
+margin-top:155px;
 }
 
 .big-bg1{
 background-image:url(img/IMG_6018.JPG);
 background-size:cover;
 height:80vh;
+margin-top:155px;
 }
 
 .page-title{
@@ -316,7 +318,7 @@ font-family: "Sawarabi Mincho", serif;
   font-style: normal;
 font-size:7rem;
 color:rgba(94, 94, 92,.8);
-text-shadow: 0px 0px 13px rgba(247, 243, 242, 0.8);
+text-shadow: 0px 0px 13px rgba(247, 243, 242, .4);
 }
 
 .pagetop{
@@ -466,7 +468,7 @@ height:300px;
 border-radius:15px;
 display:flex;
 align-items:end;
-margin:60px auto;
+margin:75px auto;
 width:90%;
 }
 
@@ -494,6 +496,8 @@ font-family: "Kaisei Opti", serif;
   font-weight: 400;
   font-style: normal;
 text-align:center;
+font-size:1.3rem;
+margin-bottom:40px;
 }
 
 .message-margin{
@@ -502,9 +506,14 @@ margin:8px 0;
 
 /*concept----------------*/
  
+.contener{
+justify-content:space-around;
+align-content: space-between;
+margin-top:100px;
+}
 
 .concept-title{
-font-size:1.4rem;
+font-size:1.2rem;
 font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -673,13 +682,14 @@ background-image:url(img/img.jpg);
 background-size:cover;
 height:35vh;
 margin-bottom:25px;
-
+margin-top:75px;
 }
 
 .big-bg1{
 background-image:url(img/IMG_6018.JPG);
 background-size:cover;
 height:35vh;
+margin-top:75px;
 }
 
 .page-title{
@@ -690,6 +700,7 @@ font-family: "Sawarabi Mincho", serif;
   font-style: normal;
 font-size:3rem;
 color:rgba(94, 94, 92,.8);
+text-shadow: 0px 0px 13px rgba(247, 243, 242, 0.8);
 
 }
 /*menu----------------*/
